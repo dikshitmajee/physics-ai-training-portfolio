@@ -1,0 +1,82 @@
+## Questions
+
+Topic: RDCO Interpretation Limitation
+
+Q.1: If the measured RDCO value of a transition is close to 1 when gated on a known quadrupole transition, can we confidently conclude that the transition is quadrupole? What experimental factors might influence this interpretation?
+Concepts involved:
+• RDCO ratios
+• multipole mixing
+• detector geometry
+• statistical uncertainty
+
+Topic: RDCO vs IPDCO Conflict
+
+Q.2: Suppose RDCO analysis suggests a dipole transition but IPDCO measurement indicates an electric quadrupole character. What physical or experimental factors could explain this discrepancy?
+Concepts involved:
+• mixed transitions (M1+E2)
+• gating errors
+• detector asymmetry
+
+Topic: Gamma-Gamma Coincidence Ambiguity
+
+Q.3: Under what circumstances can gamma–gamma coincidence measurements produce an incorrect nuclear level scheme?
+Concepts involved:
+• contaminant peaks
+• accidental coincidences
+• unresolved transitions
+
+Topic: Doppler Broadening in Gamma Spectroscopy
+
+Q.4: How does Doppler broadening affect the observed gamma-ray spectrum, and why is Doppler correction necessary in nuclear spectroscopy experiments?
+Concepts involved:
+• moving nuclei
+• energy resolution
+• peak distortion
+
+Topic: Detector Efficiency Correction
+
+Q.5: Why is detector efficiency calibration necessary when comparing gamma-ray intensities in spectroscopy experiments?
+Concepts involved:
+• energy dependent efficiency
+• calibration sources
+• systematic errors
+
+Topic: Polarization Measurement in Clover Detectors
+
+Q.6: Why are Clover detectors suitable for polarization measurements in gamma spectroscopy experiments?
+Concepts involved:
+• Compton scattering
+• polarization asymmetry
+• detector segmentation
+
+Topic: Quantum Particle in a Box Interpretation
+
+Q.7: Why does a particle confined in an infinite potential well have discrete energy levels, and what physical principle prevents the energy from being continuous?
+Concepts involved:
+• boundary conditions
+• wavefunction quantization
+• eigenvalue solutions
+
+Topic: Degeneracy in Quantum Systems
+
+Q.8: Why do degeneracies occur in quantum mechanical systems such as the hydrogen atom, and how are these degeneracies related to system symmetry?
+Concepts involved:
+• angular momentum
+• symmetry of potential
+• quantum numbers
+
+Topic: Wavefunction Interpretation
+
+Q.9: Why is the wavefunction itself not directly observable, and why does the probability density involve the square modulus of the wavefunction?
+Concepts involved:
+• Born interpretation
+• probability density
+• measurement in quantum mechanics
+
+Topic: Experimental Uncertainty in Nuclear Spectroscopy
+
+Q.10: Why is it often difficult to assign unique spin-parity values to nuclear states based only on experimental gamma-ray data?
+Concepts involved:
+• multipole mixing
+• limited statistics
+• model dependence
