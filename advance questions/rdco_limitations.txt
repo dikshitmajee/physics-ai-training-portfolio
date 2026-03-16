@@ -1,0 +1,26 @@
+# Advanced Nuclear Spectroscopy Question
+
+## Question
+
+If an RDCO value is measured as 0.95 for a gamma transition gated on a quadrupole transition, can we confidently assign it as quadrupole? Explain the limitations.
+
+## Discussion
+
+RDCO values close to unity often indicate quadrupole transitions when gated on quadrupole transitions.
+
+However, the interpretation is not always straightforward because:
+
+• finite detector efficiency  
+• statistical uncertainty  
+• possible multipole mixing  
+• incorrect gating transitions  
+
+Therefore RDCO values must be interpreted together with additional information such as:
+
+- polarization measurements (IPDCO)
+- gamma-gamma coincidence relationships
+- systematics of neighboring nuclei.
+
+## Insight
+
+This example demonstrates why experimental nuclear spectroscopy often requires multiple observables before assigning spin and parity.

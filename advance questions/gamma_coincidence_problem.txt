@@ -1,0 +1,22 @@
+# Gamma-Gamma Coincidence Ambiguity
+
+## Question
+
+How can gamma-gamma coincidence measurements lead to an incorrect nuclear level scheme?
+
+## Discussion
+
+Coincidence measurements identify cascades of gamma transitions.
+
+However several factors may introduce ambiguity:
+
+• contaminant gamma rays  
+• unresolved peaks in the spectrum  
+• accidental coincidences  
+• overlapping transitions from different nuclei  
+
+These factors may lead to incorrect placement of gamma rays in the level scheme.
+
+## Insight
+
+Careful gating, background subtraction, and comparison with theoretical models are required to avoid misinterpretation.
