@@ -25,3 +25,15 @@ Conceptual explanations of physics topics.
 
 latex_examples/
 Physics solutions written using LaTeX.
+
+advance_problems/
+This section contains advanced physics questions that require deeper reasoning and experimental insight. These examples highlight situations where AI systems may struggle to provide precise explanations without domain knowledge.
+
+##Research Background
+
+MSc Thesis: Spectroscopic Study of 48Ti using Gamma-ray Spectroscopy (RDCO and IPDCO analysis).
+
+##Contact
+
+LinkedIn: https://linkedin.com/in/dikshit-majee-physics  
+Email: dikshitmajee18@gmail.com
